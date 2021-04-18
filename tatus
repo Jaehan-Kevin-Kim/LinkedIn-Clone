@@ -1,0 +1,29 @@
+[33mcommit b034ec4ebbbc170cfb622505401a582fe0a0a49b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kevin Kim <jhkevin21@gmail.com>
+Date:   Fri Apr 16 16:42:26 2021 -0600
+
+    design sidebar
+
+[33mcommit be0a3feadb392ec8757a62493bc82256b6d16573[m
+Author: Kevin Kim <jhkevin21@gmail.com>
+Date:   Fri Apr 16 00:11:14 2021 -0600
+
+    Complete design for header
+
+[33mcommit 1ea95710c311bfd4ec3caed42b11836ceb46c8ad[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Kevin Kim <jhkevin21@gmail.com>
+Date:   Thu Apr 15 18:24:13 2021 -0600
+
+    Built Header Left
+
+[33mcommit 6a58bc9740c9ee8c385be3c59c40006a7eed2b0b[m
+Author: Kevin Kim <jhkevin21@gmail.com>
+Date:   Thu Apr 15 17:27:55 2021 -0600
+
+    Initial react app set up
+
+[33mcommit 188f65f0b17612871f3b39d5da76b50b5bbaf2c1[m
+Author: Kevin Kim <jhkevin21@gmail.com>
+Date:   Thu Apr 15 17:08:48 2021 -0600
+
+    Initialize project using Create React App
